@@ -1,0 +1,3 @@
+<launch>
+    <node pkg="turtlebot3_navigation" type="avoid_0" name="node_0" output="screen" />
+</launch>

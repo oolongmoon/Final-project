@@ -1,0 +1,3 @@
+<launch>
+    <node pkg="turtlebot3_navigation" type="global" name="global_server" output="screen" />
+</launch>
