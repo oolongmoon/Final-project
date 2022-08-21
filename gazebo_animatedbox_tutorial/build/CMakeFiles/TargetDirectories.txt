@@ -1,0 +1,5 @@
+/home/user/catkin_ws/src/gazebo_animatedbox_tutorial/build/CMakeFiles/rebuild_cache.dir
+/home/user/catkin_ws/src/gazebo_animatedbox_tutorial/build/CMakeFiles/edit_cache.dir
+/home/user/catkin_ws/src/gazebo_animatedbox_tutorial/build/CMakeFiles/integrated_main.dir
+/home/user/catkin_ws/src/gazebo_animatedbox_tutorial/build/CMakeFiles/independent_listener.dir
+/home/user/catkin_ws/src/gazebo_animatedbox_tutorial/build/CMakeFiles/animated_box.dir
